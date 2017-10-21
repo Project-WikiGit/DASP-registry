@@ -1,4 +1,4 @@
-# DASP-index
+# DASP Registry
 An Ethereum smart contract that acts as a registry for all DASPs, and as a DASP
 discovery portal. Anyone can register their DASP here, provided that they offer
 a deposit (planned amount is 10 finney). When you remove your DASP from the
